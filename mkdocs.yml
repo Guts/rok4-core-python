@@ -1,0 +1,21 @@
+site_name: "Projet ROK4 - Librairies python"
+site_url: https://rok4.github.io/core-python
+
+nav:
+    - Projet ROK4: https://rok4.github.io
+    - Accueil: index.md
+    - Toutes les versions: versions.md
+
+theme:
+    logo: assets/images/rok4-carre.png
+    favicon: assets/images/rok4-carre.png
+    name: material
+    features:
+        - navigation.tabs
+        - navigation.tabs.sticky
+    locale: fr
+
+extra_css:
+    - assets/css/style.css
+
+docs_dir: ./mkdocs
