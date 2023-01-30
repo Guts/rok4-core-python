@@ -17,5 +17,3 @@ theme:
 
 extra_css:
     - assets/css/style.css
-
-docs_dir: ./mkdocs
