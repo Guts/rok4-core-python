@@ -45,6 +45,9 @@ jobs:
           retention-days: 1
 
   deploy:
+
+    name: Deploy site to github pages
+
     needs: build
 
     permissions:
