@@ -1,12 +1,5 @@
 # Versions
 
-## 0.1.dev12
-
-* [Documentation générale](versions/0.1.dev12/README.md)
-* [Changements](versions/0.1.dev12/CHANGELOG.md)
-* [Documentation développeur](versions/0.1.dev12/DOCUMENTATION.md)
-* [Rapport des tests unitaires](versions/0.1.dev12/TESTS.md)
-
 ## 1.2.0
 
 * [Documentation générale](versions/1.2.0/README.md)
