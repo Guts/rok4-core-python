@@ -7,8 +7,8 @@ nav:
     - Toutes les versions: versions.md
 
 theme:
-    logo: assets/images/rok4-carre.png
-    favicon: assets/images/rok4-carre.png
+    logo: https://rok4.github.io/assets/images/rok4-carre.png
+    favicon: https://rok4.github.io/assets/images/rok4-carre.png
     name: material
     features:
         - navigation.tabs

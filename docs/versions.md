@@ -7,20 +7,6 @@
 * [Documentation développeur](versions/1.4.4/DOCUMENTATION.md)
 * [Rapport des tests unitaires](versions/1.4.4/TESTS.md)
 
-## 1.4.3
-
-* [Documentation générale](versions/1.4.3/README.md)
-* [Changements](versions/1.4.3/CHANGELOG.md)
-* [Documentation développeur](versions/1.4.3/DOCUMENTATION.md)
-* [Rapport des tests unitaires](versions/1.4.3/TESTS.md)
-
-## 1.4.2
-
-* [Documentation générale](versions/1.4.2/README.md)
-* [Changements](versions/1.4.2/CHANGELOG.md)
-* [Documentation développeur](versions/1.4.2/DOCUMENTATION.md)
-* [Rapport des tests unitaires](versions/1.4.2/TESTS.md)
-
 ## 1.3.0
 
 * [Documentation générale](versions/1.3.0/README.md)
