@@ -1,5 +1,12 @@
 # Versions
 
+## 1.4.4
+
+* [Documentation générale](versions/1.4.4/README.md)
+* [Changements](versions/1.4.4/CHANGELOG.md)
+* [Documentation développeur](versions/1.4.4/DOCUMENTATION.md)
+* [Rapport des tests unitaires](versions/1.4.4/TESTS.md)
+
 ## 1.4.3
 
 * [Documentation générale](versions/1.4.3/README.md)
